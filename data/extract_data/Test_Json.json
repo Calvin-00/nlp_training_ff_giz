@@ -1,0 +1,75 @@
+[
+  {
+    "id": "CC-MAIN-2019-51",
+    "name": "December 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-51/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-51-index"
+  },
+  {
+    "id": "CC-MAIN-2019-47",
+    "name": "November 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-47/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-47-index"
+  },
+  {
+    "id": "CC-MAIN-2019-43",
+    "name": "October 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-43/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-43-index"
+  },
+  {
+    "id": "CC-MAIN-2019-39",
+    "name": "September 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-39/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-39-index"
+  },
+  {
+    "id": "CC-MAIN-2019-35",
+    "name": "August 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-35/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-35-index"
+  },
+  {
+    "id": "CC-MAIN-2019-30",
+    "name": "July 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-30/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-30-index"
+  },
+  {
+    "id": "CC-MAIN-2019-26",
+    "name": "June 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-26/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-26-index"
+  },
+  {
+    "id": "CC-MAIN-2019-22",
+    "name": "May 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-22/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-22-index"
+  },
+  {
+    "id": "CC-MAIN-2019-18",
+    "name": "April 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-18/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-18-index"
+  },
+  {
+    "id": "CC-MAIN-2019-13",
+    "name": "March 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-13/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-13-index"
+  },
+  {
+    "id": "CC-MAIN-2019-09",
+    "name": "February 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-09/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-09-index"
+  },
+  {
+    "id": "CC-MAIN-2019-04",
+    "name": "January 2019 Index",
+    "timegate": "http://index.commoncrawl.org/CC-MAIN-2019-04/",
+    "cdx-api": "http://index.commoncrawl.org/CC-MAIN-2019-04-index"
+  }
+  
+]
